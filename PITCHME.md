@@ -44,7 +44,7 @@ print("それみたかいっ！");
 ```
 +++?code=index.html&style=solarized-light
 
----
++++
 # 福坂の場合
 
 +++?image=https://user-images.githubusercontent.com/860816/30520068-373dfb84-9be0-11e7-83c3-99a40da280a5.png
