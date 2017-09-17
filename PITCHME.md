@@ -42,4 +42,4 @@ Log.d(TAG, "それみたかいっ!");
 print("それみたかいっ！");
 
 ```
-+++?=code=index.html
+---?=code=index.html
